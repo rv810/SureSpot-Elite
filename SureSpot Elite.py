@@ -122,9 +122,6 @@ def stuck():
 Balance function: This function will check if 1 side of the bar is 
 imbalanced compared to the other side the respective motor will be 
 activated to rebalance the bar. 
-
-We were unable to implement this function in our prototype because
-we couldn't use two distance sensors.
 '''
 def balance():
     #while sensor1 side of the bar is higher than sensor2 side motor1 is activated until rebalanced
