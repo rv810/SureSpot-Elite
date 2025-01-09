@@ -60,5 +60,5 @@ The main function that coordinates all other functions:
    - **Buzzer**: Connect to GPIO pin 22.
    - **Button**: Connect to GPIO pin 13.
 
-3. Run the code (surespot elite.py)
+3. Run the code (SureSpotElite.py)
 4. The system will wait for a button press to begin the lifting process. It will automatically monitor the bar's movement and handle any imbalances or failures.
